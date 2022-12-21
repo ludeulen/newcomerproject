@@ -31,27 +31,25 @@
 
 #### todoList
 
-| 완료          | 작업내용                                          | 완료날짜       |
-|-------------|-----------------------------------------------|------------|
-| close       | 공공데이터 요청(python)                              | - 22-12-19 |
-| open        | 개발아키텍처 기획                                             | -          |
-| In Progress | api데이터 받기 샘플코드 완성(python)                     | -          |
-| In Progress | github가입과 관리                                  | -          |
-| In Progress | readme.md 개발문서 작성                             | -          |
-| open        | server0과 server1 @GetMapping 연결 구조 설계         | -          |
-| open        | DB에 데이터 저장하기 sample                           | -          |
-| open        | DB에 데이터 불러오기 1 (공공데이터)                        | -          |
-| open        | CSV web link 불러와서 URL 주소 전달하는 @RestController 만들기 | -          |
-| open        | DB에 검색내용, IP, 시간을 저장하는 Entity Table만들기        | -          |
-| open        | DB에 데이터 불러오기 2 (검색내용 불러오기)                    | -          |
-| open        | 시각화 HTML 만들기 1,2 (migration:이동)               | -          |
-| open        | flask과 springboot 연동                          | -          |
-| open        | -                                             | -          |
-| open        | 시각화 페이지 URL 전달하는 API 만들기 (route CSV)          | -          |
-| open        | 포트폴리오 목록 정하기 / 개발자 용어 정리                      | -          |
-| open        | 시각화 HTML 만들기 3 (그래프 그리기)                      | -          |
-| open        | -                                             | -          |
-| open        | -                                             | -          |
+| 완료    | 작업내용                                   | 완료날짜       |
+|-------|----------------------------------------|------------|
+| close | 공공데이터 요청(python)                       | - 22-12-19 |
+| open  | 개발아키텍처 기획                              | -          |
+| close | api데이터 받기 샘플코드 완성(python)              | - 22-12-20 |
+| close | github가입과 관리                           | - 22-12-19 |
+| close | readme.md 개발문서 작성                      | - 22-12-19 |
+| open  | server0과 server1 @GetMapping 연결 구조 설계  | -          |
+| close | DB에 데이터 저장하기 (python)                  | - 22-12-20 |
+| close | DB에 데이터 불러오기 1 (공공데이터)                 | - 22-12-20 |
+| open  | DB에 검색내용, IP, 시간을 저장하는 Entity Table만들기 | -          |
+| open  | DB에 데이터 불러오기 2 (검색내용 불러오기)             | -          |
+| open  | 시각화 HTML 만들기 1,2 (migration:이동)        | -          |
+| open  | flask과 springboot 연동                   | -          |
+| open  | -                                      | -          |
+| open  | 포트폴리오 목록 정하기 / 개발자 용어 정리               | -          |
+| open  | 시각화 HTML 만들기 3 (그래프 그리기)               | -          |
+| open  | -                                      | -          |
+| open  | -                                      | -          |
 
 ---
 
