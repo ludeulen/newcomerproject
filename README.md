@@ -35,13 +35,12 @@
 |-------|----------------------------------------|------------|
 | close | 공공데이터 요청(python)                       | - 22-12-19 |
 | open  | 개발아키텍처 기획                              | -          |
-| close | api데이터 받기 샘플코드 완성(python)              | - 22-12-20 |
+| close | api데이터 받기 샘플코드 완성(python)              | - 22-12-28 |
 | close | github가입과 관리                           | - 22-12-19 |
-| close | readme.md 개발문서 작성                      | - 22-12-19 |
+| open  | readme.md 개발문서 작성                      | -          |
 | open  | server0과 server1 @GetMapping 연결 구조 설계  | -          |
-| close | DB에 데이터 저장하기 (python)                  | - 22-12-20 |
-| close | DB에 데이터 불러오기 1 (공공데이터)                 | - 22-12-20 |
-| open  | DB에 검색내용, IP, 시간을 저장하는 Entity Table만들기 | -          |
+| open  | DB에 데이터 저장하기 (python)                  | -          |
+| open  | DB에 데이터 불러오기 1 (공공데이터)                 | -          |
 | open  | DB에 데이터 불러오기 2 (검색내용 불러오기)             | -          |
 | open  | 시각화 HTML 만들기 1,2 (migration:이동)        | -          |
 | open  | flask과 springboot 연동                   | -          |
